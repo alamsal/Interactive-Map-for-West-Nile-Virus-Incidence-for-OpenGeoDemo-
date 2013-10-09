@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+.wnvmap
+{
+	display: block;	
+	overflow:visible;
+	width: 567px;
+	height: 480px;
+	border: 1px solid black;
+	position:relative; 
+	top:200px
+	left:50px
+	
+}
+.wnvlayer
+{
+	display:block;
+	position:relative; 
+	overflow:visible;
+	width:200px;
+	height:350px;
+	border:none;
+}
+.wnvlegend
+{
+	display:block;
+	position:relative;
+	border:none;
+	width:100px;
+	height:167px;
+}
